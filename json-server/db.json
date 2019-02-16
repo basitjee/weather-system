@@ -1,0 +1,19 @@
+{
+  "skills": [
+    {
+      "name": "Node JS",
+      "expirience": "< 1 year",
+      "id": 1
+    },
+    {
+      "name": "PHP 7",
+      "expirience": "7+ years",
+      "id": 4
+    },
+    {
+      "name": "EcmaS6",
+      "expirience": "5 - 7 years",
+      "id": 5
+    }
+  ]
+}
